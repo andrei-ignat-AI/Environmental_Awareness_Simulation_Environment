@@ -201,4 +201,4 @@ Do not run batch import while the same project is already open in the Unity Edit
 
 ## Repository Notes
 
-This repository intentionally excludes Python code, reports, generated sample outputs, Unity editor caches, local bridge helper scripts, and old Unity archive/export files. Unity Bridge is not part of the clean committed project.
+This repository intentionally excludes Python code, reports, generated sample outputs, Unity editor caches, and old Unity archive/export files.

@@ -35,25 +35,9 @@ Assets/_Recovery.meta
 Thumbs.db
 Desktop.ini
 
-# Version-control and local tooling leftovers
+# Version-control leftovers
 .plastic/
 ignore.conf
-AGENTS.md
-Assets/Editor/BridgeScratch.cs
-Assets/Editor/BridgeScratch.cs.meta
-Assets/Editor/README.ai
-Assets/Editor/README.ai.meta
-unity-cmd.py
-unity-cmd.ps1
-
-# Unity Bridge runtime state must remain local only
-Assets/LLM/Bridge/request.json
-Assets/LLM/Bridge/request.json.meta
-Assets/LLM/Bridge/response.md
-Assets/LLM/Bridge/response.md.meta
-Assets/LLM/Bridge/Screenshots/
-Assets/LLM/texture-catalog.json
-Assets/LLM/texture-catalog.json.meta
 
 # Generated simulation outputs
 GeneratedSamples/
