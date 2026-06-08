@@ -1,0 +1,75 @@
+# Unity generated state
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Assets/_Recovery/
+Assets/_Recovery.meta
+
+# Generated project/IDE files
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Version-control and local tooling leftovers
+.plastic/
+ignore.conf
+AGENTS.md
+Assets/Editor/BridgeScratch.cs
+Assets/Editor/BridgeScratch.cs.meta
+Assets/Editor/README.ai
+Assets/Editor/README.ai.meta
+unity-cmd.py
+unity-cmd.ps1
+
+# Unity Bridge runtime state must remain local only
+Assets/LLM/Bridge/request.json
+Assets/LLM/Bridge/request.json.meta
+Assets/LLM/Bridge/response.md
+Assets/LLM/Bridge/response.md.meta
+Assets/LLM/Bridge/Screenshots/
+Assets/LLM/texture-catalog.json
+Assets/LLM/texture-catalog.json.meta
+
+# Generated simulation outputs
+GeneratedSamples/
+sample_0000_exampleForOneScene/
+
+# Old archive/export clutter
+Assets/Robot_stock.zip
+Assets/Robot_stock.zip.meta
+Assets/Exported_packages/
+Assets/Materials/WallTransparent.unitypackage
+Assets/Materials/WallTransparent.unitypackage.meta
+
+# External workspaces and report/draft material
+C-ArmSimulation/
+Environmental_Awareness_Pipeline/
+Report/
+*.pdf
+*.rtf
+*.tex
