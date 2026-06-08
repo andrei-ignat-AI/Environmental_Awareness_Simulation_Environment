@@ -57,6 +57,7 @@ Assets/LLM/texture-catalog.json.meta
 
 # Generated simulation outputs
 GeneratedSamples/
+GeneratedSamples_backup/
 sample_0000_exampleForOneScene/
 
 # Old archive/export clutter
